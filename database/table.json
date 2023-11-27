@@ -1,0 +1,32 @@
+[
+    {
+      "titulo": "Nuevo curso de Flutter disponible",
+      "descripcion": "Descubre las últimas lecciones y proyectos emocionantes en nuestro nuevo curso en línea de Flutter.",
+      "icono": "accessible_forward_sharp",
+      "fecha_publicacion": "2023-01-15"
+    },
+    {
+      "titulo": "Actualización de Flutter: Mejoras de rendimiento",
+      "descripcion": "La última versión de Flutter incluye mejoras significativas en el rendimiento y nuevas características emocionantes.",
+      "icono": "ad_units",
+      "fecha_publicacion": "2023-02-20"
+    },
+    {
+      "titulo": "Conferencia mundial de desarrolladores en Flutter",
+      "descripcion": "Participa en la conferencia mundial de desarrolladores y conoce a expertos de la industria en Flutter.",
+      "icono": "add_a_photo",
+      "fecha_publicacion": "2023-03-10"
+    },
+    {
+      "titulo": "Estrategias para el desarrollo multiplataforma",
+      "descripcion": "Aprende estrategias efectivas para el desarrollo multiplataforma con Flutter para iOS y Android.",
+      "icono": "add_business",
+      "fecha_publicacion": "2023-04-05"
+    },
+    {
+      "titulo": "Nuevos widgets avanzados en Flutter",
+      "descripcion": "Explora los últimos widgets avanzados añadidos a Flutter y cómo pueden mejorar tu experiencia de desarrollo.",
+      "icono": "add_moderator",
+      "fecha_publicacion": "2023-05-12"
+    }
+  ]
